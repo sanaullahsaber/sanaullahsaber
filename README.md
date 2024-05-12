@@ -1,4 +1,4 @@
-# Hi there 👋, Sanaullah Saber
+#👋Hello, I'm Sanaullah Saber
 ![](https://i.postimg.cc/9f3yNyVN/github.png)
 
 I specialize in building mobile responsive front-end UI applications that connect with APIs and other backend technologies. I’m passionate about learning new technologies and understand that there is more than one way to accomplish a task. Though I am most proficient in building front-end applications using HTML, CSS, JavaScript, and React, I am a quick learner and can pick up new tech stacks as needed. The mark of a skilled developer isn't language mastery, but the ability to pick the right tool from the developer's toolbox.
@@ -18,3 +18,7 @@ I specialize in building mobile responsive front-end UI applications that connec
 - 💬 Ask me about my experience with different CSS frameworks and responsive design techniques. 
 - 📫 How to reach me:  Feel free to message me on mail sanaullahsaber@gmail.com 
 - ⚡ Fun fact:  I once accidentally deleted the entire codebase of a project but managed to recover it from a backup just in time! 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaullahsaber)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaullahsaber&show_icons=true)  
